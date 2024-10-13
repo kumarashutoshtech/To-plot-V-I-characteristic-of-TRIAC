@@ -1,0 +1,1 @@
+# To-plot-V-I-characteristic-of-TRIAC
